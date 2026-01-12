@@ -25,6 +25,12 @@ Creational design patterns provides the various object creation mechanism to wri
 Structural design patterns how we assemble the object and the classes in to the larger structure while keeping the code flexible and efficient.
 
   1. Adapter
+  2. Bridge
+  3. Composite
+  4. Decorator
+  5. Facade
+  6. Flyweight
+  7. Proxy
 
 
 # Behavioral
