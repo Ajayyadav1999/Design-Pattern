@@ -36,3 +36,14 @@ Structural design patterns how we assemble the object and the classes in to the 
 # Behavioral
 
 Behavioral design patterns means these are concerned with the algorithms and assignment of the responsibilities of the objects.
+
+  1. Chain Of Responsibility
+  2. Command 
+  3. Iterator
+  4. Mediator
+  5. Memento
+  6. Observer
+  7. State
+  8. Strategy
+  9. Template Method
+  10. Visitor
